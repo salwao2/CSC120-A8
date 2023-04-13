@@ -12,3 +12,4 @@ public interface Contract {
     void undo();
 
 }
+
